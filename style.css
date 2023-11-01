@@ -1,0 +1,24 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+.one.text-red {
+	color: red;
+}
+
+
+h1.one-seventy-eight {
+	color: green;
+}
+
+/* amr h1 kaj kortese na  */
+
+
+.one,.two,.three {
+	background: pink;
+	height: 50px;
+	margin-bottom: 10px;
+}
+
+/* coma diye pashapasi lekha jay  div,p,hi deyeo ora jabe */
